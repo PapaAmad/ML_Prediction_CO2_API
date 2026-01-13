@@ -1,0 +1,38 @@
+[
+    {
+        "NumberofFloors": 5,
+        "NumberofBuildings": 1,
+        "Age": 20.0,
+        "ENERGYSTARScore": 85.0,
+        "PrimaryPropertyType": "Office",
+        "BuildingType": "NonResidential",
+        "Neighborhood": "DOWNTOWN",
+        "Latitude": 47.6038,
+        "Longitude": -122.3301,
+        "Has_Parking": 1,
+        "Has_Gas": 1,
+        "Has_Steam": 0,
+        "PropertyGFATotal": 50000.0,
+        "PropertyGFAParking": 5000.0,
+        "predicted_CO2": 50.141044608517916,
+        "timestamp": "2026-01-13T00:15:36.530162"
+    },
+    {
+        "NumberofFloors": 5,
+        "NumberofBuildings": 0,
+        "Age": 10.0,
+        "ENERGYSTARScore": 11.0,
+        "PrimaryPropertyType": "Hospital",
+        "BuildingType": "NonResidential",
+        "Neighborhood": "DOWNTOWN",
+        "Latitude": 49.0,
+        "Longitude": -122.0,
+        "Has_Parking": 0,
+        "Has_Gas": 1,
+        "Has_Steam": 0,
+        "PropertyGFATotal": 5000.0,
+        "PropertyGFAParking": null,
+        "predicted_CO2": 11.701733977557643,
+        "timestamp": "2026-01-13T00:17:18.155378"
+    }
+]
